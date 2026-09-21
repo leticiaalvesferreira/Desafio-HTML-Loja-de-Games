@@ -1,9 +1,7 @@
 # **Desafio HTML - Loja de Games**
 
----
-
-## 👨‍💻 **Aluna:** Leticia Alves Ferreira
-## 📚 **Curso:** Desenvolvimento de Sistemas / 1IG-DS
+### 👨‍💻 **Aluna:** Leticia Alves Ferreira
+### 📚 **Curso:** Desenvolvimento de Sistemas / 1IG-DS
 
 ---
 
